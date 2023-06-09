@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <!--
 **Gayeon-Leee/Gayeon-Leee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
