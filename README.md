@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-![Gayeon-Leee's github stats](https://github-readme-stats.vercel.app/api?username=Gayeon-Leee&show_icons=true)
+<!--[Gayeon-Leee's github stats](https://github-readme-stats.vercel.app/api?username=Gayeon-Leee&show_icons=true)-->
 <!--
 **Gayeon-Leee/Gayeon-Leee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
