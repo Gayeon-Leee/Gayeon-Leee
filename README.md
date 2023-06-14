@@ -1,10 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
+<div align=center><h1>📚 STACKS</h1></div>
+
+<div align=center>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
+</div>
 
 
 
