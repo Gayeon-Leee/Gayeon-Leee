@@ -1,17 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<div align=center>
-  <a href="https://git.io/streak-stats" style="text-align: center;">
-    <img src="https://streak-stats.demolab.com?user=Gayeon-Leee&theme=tokyonight-duo" alt="GitHub Streak">
-  </a>
-</div>
-
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=csharp&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
+</div>
+
+<div align=center>
+  <a href="https://git.io/streak-stats" style="text-align: center;">
+    <img src="https://streak-stats.demolab.com?user=Gayeon-Leee&theme=tokyonight-duo" alt="GitHub Streak">
+  </a>
 </div>
 
 
