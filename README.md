@@ -8,11 +8,6 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
 </div>
 
-<div align=center>
-  <a href="https://git.io/streak-stats" style="text-align: center;">
-    <img src="https://streak-stats.demolab.com?user=Gayeon-Leee&theme=tokyonight-duo" alt="GitHub Streak">
-  </a>
-</div>
 
 
 
