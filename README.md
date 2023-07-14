@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=22&text=Hi%20there%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<div style="display: flex; justify-content: center;">
+<div align=center>
   <a href="https://git.io/streak-stats" style="text-align: center;">
     <img src="https://streak-stats.demolab.com?user=Gayeon-Leee&theme=tokyonight-duo" alt="GitHub Streak">
   </a>
